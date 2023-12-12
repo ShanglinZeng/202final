@@ -1,0 +1,399 @@
+row_id,company_name,job_title,average_salary,company_age
+1,1-800-Flowers,Data Scientist,203.5,44
+2,1010data,Software Data Engineer,107,20
+3,10x Genomics,"Manager, Field Application Scientist, Southeast",271,8
+4,1904labs,Data Scientist,126.5,4
+5,22nd Century Technologies,Data Scientist,113,23
+6,7Park Data,"VP, Data Science",78,8
+7,A Place for Mom,Data Scientist,103,20
+8,A-Line Staffing Solutions,Data Scientist,136,16
+9,ABIOMED,"Manager / Lead, Data Science & Analytics",120,39
+10,ALTA IT Services,Data Scientist,185,16
+11,ASRC Federal Holding Company,Data Scientist,185,17
+12,Acuity Insurance,Senior Research Statistician- Data Scientist,105,95
+13,Advanced BioScience Laboratories,Staff Scientist- Upstream PD,99,59
+14,Adwait Algorithm,Data Scientist,185,5
+15,AeroVironment,"Machine Learning Engineer, Sr.",148,49
+16,Affinity Solutions,Data Scientist,154,22
+17,Affinity Solutions,Senior Data Engineer,148,22
+18,Affinity Solutions,Staff BI and Data Engineer,107,22
+19,AgreeYa Solutions,Data Scientist,101.5,21
+20,Alector,"Vice President, Biometrics and Clinical Data Management",148,7
+21,Alignment Healthcare,Data Engineer,114,7
+22,Alion Science & Technology,Data Engineer,92,19
+23,Allen Institute,Scientist - Machine Learning,192.5,17
+24,AllianceBernstein,Data Analyst/Engineer,115,53
+25,AllianceBernstein,RFP Data Analyst,115,53
+26,Allied Solutions,Data Analyst,105,19
+27,Altus Group,Data Scientist,120,15
+28,Americo Life,Data Engineer,123,28
+29,Ameritas Life Insurance Corp,Data Scientist,88.5,133
+30,Amyris,Data Scientist 3 (718),134.5,17
+31,Analysis Group,Data Scientist,128.5,39
+32,Analysis Group,Director of Data Science,120,39
+33,Apex Systems,Data Scientist,43,25
+34,AppLovin,Data Engineer,99,8
+35,Apple,"AI/ML - Machine Learning Scientist, Siri Understanding",123,44
+36,Apple,Machine Learning Scientist / Engineer,89,44
+37,Aptive,Data Scientist,271,8
+38,Argo Group US,Sr. Data Scientist II,86.5,72
+39,Arsenal Biosciences,NGS Scientist,115,1
+40,Arsenal Biosciences,Scientist - Molecular Biology,103,1
+41,AstraZeneca,AI Ops Data Scientist,109.6666666666666667,107
+42,AstraZeneca,Patient Safety- Associate Data Scientist,105.5,107
+43,AstraZeneca,Principal Data Scientist,76,107
+44,AstraZeneca,"Real World Science, Data Scientist",188,107
+45,AstraZeneca,Senior Data Scientist - R&D Oncology,129.5,107
+46,Autodesk,Data Science Manager,164,38
+47,Autodesk,Principal Data Scientist,98.5,38
+48,Autodesk,Senior Data Analyst,133,38
+49,Autodesk,Senior Data Analyst,133,52
+50,Autodesk,Senior Data Scientist,110.5,38
+51,Averity,Data Scientist,134,6
+52,"Aveshka, Inc.",Data Scientist,203.5,10
+53,Axiologic Solutions,Data Scientist,114,11
+54,BWX Technologies,Data Scientist,86.5,170
+55,Battelle,Environmental Data Science,107,91
+56,Bayside Solutions,Data Scientist,101.5,19
+57,Bayview Asset Management,Data Engineer,105,25
+58,Benson Hill,Senior Data Scientist,104.5,8
+59,Big Huge Games,Data Analyst,115,7
+60,Biogen,IT Partner Digital Health Technology and Data Science,150,42
+61,Blackstone Talent Group,Data Scientist,115,22
+62,Blend360,Data Science All Star Program - Data Engineer Track,134,18
+63,Blue Cross and Blue Shield of North Carolina,Principal Data & Analytics Platform Engineer,113,87
+64,Blue Horizon Tek Solutions,Data Scientist(s)/Machine Learning Engineer,197,33
+65,Booz Allen Hamilton Inc.,Data Scientist,161,106
+66,Brighthouse Financial,Operations Data Analyst,97,3
+67,Brillient,Data Scientist,89,14
+68,Buckman,Data Scientist,115,75
+69,Buckman,Machine Learning Engineer,76,53
+70,Burns & McDonnell,Data Scientist,161,122
+71,C3.ai,Data Scientist,133,11
+72,CACI International,Data Scientist,123,58
+73,CIA,Data Scientist,106,73
+74,CRS Group,Data Scientist,110.5,26
+75,"Cambridge Associates, LLC",Data Analyst,103,47
+76,Cambridge FX,Data Scientist,185,28
+77,Cambridge Mobile Telematics,Data Scientist,88.5,10
+78,CaptiveAire,Big Data Engineer,164,44
+79,Carolina Power & Light Co,Data Scientist,101.5,112
+80,Caterpillar,Business Data Analyst,105,95
+81,Cenlar,Data Analyst I,103,62
+82,Centauri,Data Scientist,113,21
+83,Central California Alliance for Health,Analytics Manager - Data Mart,103,24
+84,Change Healthcare,Data Scientist,106,13
+85,Chef,Data Engineer,103,12
+86,Child Care Aware of America,Data Scientist,43,33
+87,ClearEdge,Software Engineer - Data Science,115,18
+88,Cohere Health,Data Scientist,143,1
+89,Comcast,Data Scientist,120,57
+90,Community Behavioral Health,Sr. Data Analyst,136,26
+91,Compass Consulting Group,Data Scientist,118.5,12
+92,Comprehensive Healthcare,Data Analyst,105,49
+93,Concerto HealthAI,Data Scientist,161,2
+94,Constant Contact,Principal Data Scientist - Machine Learning,91.5,25
+95,Cook Children's Health Care System,"Health Plan Data Analyst, Sr",130.5,102
+96,Coverent,Data Scientist,126.5,12
+97,Creative Circle,Data Scientist,271,18
+98,Criteo,Data Scientist,173,15
+99,"Criterion Systems, Inc.",Data Scientist,136,15
+100,Crossover Health,Data Scientist,106.5,10
+101,Crown Bioscience,Scientist - Biomarker and Flow Cytometry,99,14
+102,Cubic,Data Scientist,114,69
+103,CyberCoders,Data Scientist,161,21
+104,DCS Corp,Data Scientist,106,43
+105,DW Simpson,Data Scientist,92,31
+106,Demandbase,Data Scientist,133,14
+107,Dermalogica,Data Analyst - Unilever Prestige,102.5,34
+108,Dermalogica,Global Data Analyst,105,34
+109,Dice.com,Data Scientist,99.5,30
+110,Direct Agents,Data Engineer,99,17
+111,Dolphin,Data Scientist,183,30
+112,Dynetics,Weapons and Sensors Engineer/Scientist,142,46
+113,E3 Federal Solutions,Data Scientist,164,16
+114,EGlobalTech,Data Scientist,114,16
+115,Edmunds.com,Senior Analyst/Data Scientist,143,54
+116,Eliassen Group,Data Scientist,114,31
+117,Enterprise Solutions Inc,Data Scientist,185,20
+118,Envision Healthcare,Data Scientist,106,15
+119,Envision LLC,Data Analyst,99,26
+120,Envision LLC,Data Scientist - Intermediate,97.5,26
+121,Eversight,Data Scientist,118.5,7
+122,Evidation,Health Data Scientist - Biomedical/Biostats,115,8
+123,Evidera,Research Scientist - Patient-Centered Research (Remote),86.5,7
+124,Evidera,Research Scientist Patient Preferences (Remote),99,7
+125,Evolve Vacation Rental,Sr. Data Scientist,101.5,9
+126,Evolvinc,Data Scientist,161,15
+127,Exact Sciences Corporation,"Lead Certified Clinical Laboratory Scientist - Saturday - Tuesday, 8:00pm - 6:30am shift",136,25
+128,"Expedition Technology, Inc.",Machine Learning Engineer,99,7
+129,Exponent,Human Factors Scientist,154,53
+130,FHLBank Pittsburgh,Diversity and Inclusion Data Analyst,120,88
+131,FM Systems,Data Scientist,113,36
+132,"Farmer's Business Network, Inc.",Data Scientist,106,6
+133,First Health Group,Data Scientist,114,167
+134,Fleetcor,Data Scientist,43,20
+135,Formation,Data Scientist,154,5
+136,Foundation Medicine,Data Scientist,136,10
+137,"Fullpower Technologies, Inc.",Data Scientist / Applied Mathematician,126.5,17
+138,GNS Healthcare,Data Scientist,99,20
+139,GSK,Data Scientist,106,190
+140,GSK,"Development Scientist, Voltaren",185,190
+141,Gallup,Data Scientist,107,85
+142,Gap Inc.,Data Scientist,107,51
+143,Genentech,Statistical Scientist,76,44
+144,General Dynamics Information Technology,Computational Scientist,133,24
+145,Genesis Research,Real World Evidence (RWE) Scientist,107,11
+146,Geotab,Data Scientist,114,20
+147,GetWellNetwork,Data Engineer,115,20
+148,Gigya,Data Scientist,107,14
+149,Giving Assistant,Data Analyst,103,6
+150,Global Data Management Inc,Data Scientist,97,12
+151,GovTech,Data Scientist,108,4
+152,Great-Circle Technologies,Data Scientist,103,20
+153,GreatAmerica Financial Services,Analytics - Business Assurance Data Analyst,140.6666666666666667,28
+154,Grid Dynamics,Data Scientist,74,14
+155,Group O,Senior Data Scientist,164,46
+156,Guardian Life,Business Intelligence Analyst I- Data Insights,154,160
+157,GutCheck,Market Research Data Scientist,136,11
+158,GutCheck,Senior Data Scientist,125.5,11
+159,Guzman & Griffin Technologies (GGTI),Experienced Data Scientist,143.5,23
+160,HAN IT Staffing Inc.,Data Scientist,89,8
+161,HG Insights,Data Scientist,129.5,10
+162,HP Inc.,Lead Data Scientist,115,81
+163,HPOne,Data Scientist,92,14
+164,Healthfirst,"Data Engineer, Enterprise Analytics",105,27
+165,Healthfirst,Sr Data Scientist,154,27
+166,Hexagon US Federal,Data Scientist,203.5,10
+167,Hive (CA),Data Scientist,106,1
+168,Huxley,Data Scientist,113,25
+169,IBM,Data Scientist- Industrial Discrete Sector Industry,92,109
+170,ICW Group,Data Scientist,164,48
+171,IFG Companies,Data Scientist,105,35
+172,II-VI Incorporated,Data Scientist,97,49
+173,INFICON,Data Scientist,154,20
+174,ISO New England,Data Integration and Modeling Engineer,99,23
+175,"ISYS Technologies, Inc.",Data Scientist,114,30
+176,IZEA,Data Engineer,107,14
+177,IZEA,Data Engineer (Remote),105,14
+178,Indigo Slate,Data Scientist,114,14
+179,Infinitive Inc,Data Scientist,89,23
+180,Inland Empire Health Plan,Developer III - Data Science,148,24
+181,Insider Inc,Data Scientist,107,13
+182,"Insight Enterprises, Inc.",Data Analyst II,154,32
+183,Intellectual Ventures,Data Scientist,108,20
+184,Inter-American Development Bank,Applied Technology Researcher / Data Scientist,115,61
+185,Intuit - Data,Staff Data Scientist,115,37
+186,Intuit - Data,Staff Data Scientist - Analytics,134.5,37
+187,InvenTech Info,Data Scientist,161,10
+188,Itlize Global,Data Scientist,120,10
+189,Jacobs,Data Scientist,120,73
+190,Jane Street,Machine Learning Engineer/Scientist,109.5,20
+191,Jobot,Data Scientist,120,2
+192,Johns Hopkins University Applied Physics Laboratory,Decision Scientist,94.3333333333333333,78
+193,Juniper Networks,Sr. ML/Data Scientist - AI/NLP/Chatbot,116.6666666666666667,24
+194,KeHE Distributors,Data Scientist,123,66
+195,Kelly,Data Scientist,133,74
+196,Kforce,Data Scientist,89,54
+197,Kingfisher Systems,Data Engineer,150,15
+198,Kingfisher Systems,Data Scientist,169.5,15
+199,Klaviyo,Data Science Software Engineer,150,8
+200,Klaviyo,Data Scientist,120,8
+201,Klaviyo,Machine Learning Engineer,105,8
+202,Klaviyo,Senior Data Scientist,119.5,8
+203,Knowesis Inc.,Data Scientist,92,13
+204,LSQ,Data Architect,164,24
+205,LSQ,Data Scientist - Risk,125.5,24
+206,Lawrence Livermore National Lab,Data Scientist,120,68
+207,Leidos,Data Scientist,133,51
+208,Leidos,Data Scientist Machine Learning,183,51
+209,Lendio,Senior Data Engineer,99,9
+210,Liberty Mutual Insurance,Data Solutions Engineer - Data Modeler,136,108
+211,Liberty Mutual Insurance,Machine Learning Engineer,103,108
+212,Life360,Senior Data Analyst,86.5,12
+213,LifeOmic,Senior Machine Learning Engineer,142,4
+214,Lightspeed Systems,Data Scientist,134.5,21
+215,LinQuest,Data Scientist,43,16
+216,"MILVETS Systems Technology, Inc.",Data Scientist,89,34
+217,MIT Lincoln Laboratory,Data Scientist-Human Resources,137,69
+218,MITRE,AI Data Scientist,99,62
+219,MITRE,Aviation AI/ML Data Scientist,164,62
+220,MITRE,Lead Data Scientist – Network Analysis and Control,148,62
+221,Mackin,Data Scientist,183,60
+222,Magna International Inc.,Data Engineer,133,63
+223,ManTech,Data Scientist,154,52
+224,ManTech,Senior Data Scientist,109.5,52
+225,Market America Inc,Data Scientist,183,28
+226,Mars,Data Scientist,126.5,109
+227,Mars,"Data Scientist, Kinship - NYC/Portland",119,109
+228,MassMutual,Data Modeler (Analytical Systems),98.3333333333333333,169
+229,MassMutual,Lead Data Scientist,91.5,169
+230,Mathematica Policy Research,Data Scientist,134.5,34
+231,Maven Wave Partners,Data Scientist,106,12
+232,Mentor Graphics,"Software Engineer (Data Scientist, C,C++,Linux,Unix) - SISW - MG",136,39
+233,Meridian Knowledge Solutions,Data Scientist,106,23
+234,Metromile,Senior Data Scientist,185,9
+235,"Metronome, LLC",Data Scientist,120,9
+236,Midland Credit Management,Data Analyst,133,67
+237,MoTek Technologies,Data Scientist,92,11
+238,Montway Inc,Business Intelligence Analyst,115,14
+239,Moxie Software,Data Scientist,123,21
+240,Mteq,Machine Learning Engineer,102.5,66
+241,Murray Resources,Data Scientist,110.5,32
+242,NAVEX Global,Data Scientist,99,8
+243,NYSTEC,Clinical Data Analyst,164,24
+244,Natera,Production Engineer - Statistics/Data Analysis,76,16
+245,Navy Federal Credit Union,Cloud Data Engineer (Azure),142,87
+246,Navy Federal Credit Union,Enterprise Data Analyst (Enterprise Portfolio Management Office),148,87
+247,Net2Source Inc.,Data Scientist,92,13
+248,Netskope,Data Scientist,118.5,8
+249,New England Biolabs,Purification Scientist,105,46
+250,"New Iron Group, Inc.",Applied AI Scientist / Engineer,114,17
+251,New Relic,Software Engineer - Machine Learning & Data Science (Applied Intelligence Services Team),164,12
+252,New York Technology Partners,Data Scientist,107,21
+253,Noblis,Data Scientist,115,24
+254,Noblis,Data Scientist/Data Analytics Practitioner,114,24
+255,Nolij Consulting,Data Analyst,120.5,8
+256,Notion Labs,Data Scientist,99,4
+257,Novartis,Data Scientist / Machine Learning Expert,128.5,24
+258,Novartis,"Senior Data Scientist – Image Analytics, Novartis AI Innovation Lab",99,24
+259,Novetta,Data Science Instructor,92,8
+260,Novetta,Data Scientist,143.5,8
+261,Novetta,Senior Data Analyst,142,8
+262,Novetta,Senior Data Scientist,115,8
+263,Ntrepid,Computational Behavioral Scientist,91.5,10
+264,NuWave Solutions,Machine Learning Engineer,105,21
+265,Object Partners,Data Engineer,105,24
+266,Offerpad,Data Scientist,133,5
+267,Old World Industries,Data Modeler,154,47
+268,OneMagnify,Analytics Manager,99,53
+269,Opendoor,Staff Data Scientist - Pricing,97,6
+270,OppLoans,Data Science Analyst,89,8
+271,Oshkosh Corporation,Data Scientist,183,103
+272,Ovative Group,Data Scientist,106,11
+273,Oversight Systems,Data Scientist,130.5,17
+274,PNNL,"Data Scientist - Statistics, Early Career",115,55
+275,Pacific Northwest National Laboratory,"Data Scientist - Statistics, Mid-Career",120,55
+276,Paige,"Data Engineer, Digital & Comp Pathology",120,2
+277,Parker Hannifin,Data Scientist,107,103
+278,Peraton,Data Scientist Technical Specialist,164,3
+279,Perspecta,Data Scientist,125,2
+280,Pfizer,"Computational Scientist, Machine Learning",103,171
+281,Phantom AI,Data Engineer,115,4
+282,Phoenix Operations Group,Data Scientist - TS/SCI FSP or CI Required,93.75,9
+283,Phoenix Operations Group,Data Scientist - TS/SCI Required,107.3333333333333333,9
+284,Photon Infotech,Data Scientist,97,21
+285,Plymouth Rock Assurance,Data Scientist,99,38
+286,Postmates - Corporate HQ,Data Scientist,132,9
+287,Powertek,Data Scientist,97,19
+288,"Pragmatics, Inc.",Data Scientist,74.5,35
+289,Praxis Engineering,Data Scientist,88.5,18
+290,Procore Technologies,Data Engineer,99,18
+291,"Progress Rail, A Caterpillar Company",Data Scientist,114,37
+292,Protolabs,Senior Business Intelligence Analyst,89.6666666666666667,21
+293,Puget Sound Energy,Associate Data Scientist,111.5,21
+294,PulsePoint,Data Scientist/Machine Learning,125.5,9
+295,QOMPLX,Data Analytics Engineer,115,5
+296,Quartet Health,Senior Data Scientist - Algorithms,133,6
+297,Quest Integrity,In-Line Inspection Data Analyst,67.5,24
+298,Quick Base,Data Scientist,108.5,21
+299,REE,Data Scientist,97,2
+300,Rapid Value Solutions,Data Scientist,107,11
+301,Relativity,Tableau Data Engineer 20-0117,99,19
+302,Resurgent Capital Services,Data Engineer,115,22
+303,Reynolds American,Senior Scientist - Toxicologist - Product Integrity (Stewardship),142,145
+304,Rincon Research Corporation,Computer Scientist 1,107,37
+305,Ritedose,Sr Scientist - Extractables & Leachables,99,25
+306,Riverside Research Institute,Machine Learning Engineer,97,53
+307,Robert Half,Data Scientist,161,72
+308,Roche,Senior Principal Data Scientist (Python/R),271,124
+309,Rocket Lawyer,Data Engineer,103.6666666666666667,12
+310,Royce Geospatial,Data Scientist,161,6
+311,Rubius Therapeutics,"Principal Scientist/Associate Director, Quality Control and Analytical Technologies",130.5,7
+312,SAIC,Data Scientist,115,7
+313,SPECTRUM,Data Scientist,99,4
+314,SSATI,Data Scientist,113,17
+315,Sage Intacct,Principal Machine Learning Scientist,91.5,21
+316,Sandhills Global,Business Intelligence Analyst,103,42
+317,Sandia National Laboratories,Hydrogen/Tritium Materials Scientist (Experienced),148,71
+318,Sanofi,Data Scientist,107,47
+319,Scoop,Senior Data Engineer,115,5
+320,Security Finance Corporation of Spartanburg,Report Writer-Data Analyst,92,65
+321,Shape Security,Data Engineer,98,9
+322,Shelter Insurance,Say Business Data Analyst,133,74
+323,ShorePoint,Data Analyst,183,3
+324,SleePare,Data Scientist,183,3
+325,Smith Hanley Associates,Data Scientist,192.5,40
+326,Software Engineering Institute,Machine Learning Engineer,102.5,36
+327,Southwest Research Institute,COMPUTER SCIENTIST - ENGINEER - RESEARCH COMPUTER SCIENTIST - SIGNAL PROCESSING,271,73
+328,Southwest Research Institute,COMPUTER SCIENTIST - ENGINEER - RESEARCH COMPUTER SCIENTIST - TRANSPORTATION TECHNOLOGY,89,73
+329,Southwest Research Institute,ENGINEER - COMPUTER SCIENTIST - RESEARCH COMPUTER SCIENTIST - SIGNAL PROCESSING - SAN ANTONIO OR,150,73
+330,Spectrum Communications and Consulting,Data Engineer,148,28
+331,Spectrum Communications and Consulting,Data Scientist,123,28
+332,Spring Health,Data Scientist,115,4
+333,State of Virginia,Data Scientist,183,232
+334,Stratagem Group,Machine Learning Engineer,115,13
+335,Stripe,"Data Science Manager, Payment Acceptance - USA",105,10
+336,Summa Health System,Data Analytics Engineer,103,94
+337,Swiss Re,Data Analyst,103,157
+338,Systems & Technology Research,Applied Computer Scientist,142,10
+339,Systems & Technology Research,Machine Learning Engineer,103,10
+340,T. Rowe Price,Equity Data Insights Analyst - Quantitative Analyst,97,83
+341,TA Digital,Data Scientist,183,20
+342,TACG Solutions,Data Scientist,115,14
+343,TBWA\Chiat\Day,Data Scientist,92,52
+344,TE Connectivity,Data Scientist,183,13
+345,TRANZACT,Data Scientist,136,31
+346,Take-Two,Data Scientist,183,27
+347,Takeda,Data Scientist,108.5,239
+348,TechProjects,Data Scientist,102.5,9
+349,Tecolote Research,Data Scientist,115,47
+350,Tempo Automation,Senior Data Scientist,99,7
+351,Tempus Labs,Computer Vision / Deep Learning Scientist,150,5
+352,Tempus Labs,Data & Machine Learning Scientist,74,5
+353,Tempus Labs,"Data Scientist, Applied Machine Learning - Bay Area",106,5
+354,Tempus Labs,"Machine Learning Scientist - Bay Area, CA",133,5
+355,Tempus Labs,Senior Data & Machine Learning Scientist,133,5
+356,Tempus Labs,"Senior Machine Learning Scientist - Bay Area, CA",130.6666666666666667,5
+357,The Buffalo Group,"Intelligence Data Analyst, Senior",90.5,10
+358,The Davey Tree Expert Company,Data Scientist,102.5,140
+359,The Knot Worldwide,Data Scientist,106,1
+360,The Mom Project,Data Scientist - Image and Video Analytics,97,4
+361,The Trade Desk,Data Scientist,92,11
+362,ThreeBridge Solutions,Data Scientist,92,11
+363,Thumbtack,Senior Data Engineer,89,11
+364,Thumbtack,Senior Data Scientist,164,11
+365,Tivity Health,Sr Data Engineer (Sr BI Developer),115,39
+366,Tokio Marine HCC,Data Scientist,123,46
+367,Tower Health,Medical Lab Scientist,154,3
+368,Trace Data,Data Scientist,107,20
+369,TransVoyant,Data Scientist,114,8
+370,Travelers,"Data Engineer (Analytics, SQL, Python, AWS)",101.5,167
+371,Trexquant Investment,Data Scientist,43,8
+372,Trident Systems Inc,Data Scientist,106,35
+373,Triplebyte,Data Scientist,169.5,5
+374,Twitch,Senior Data Analyst - Finance & Platform Analytics,139,9
+375,Twitter,Product Data Scientist - Ads Data Science,132,14
+376,US Pharmacopeia,Data Scientist,120,200
+377,USAC,Data Analyst,133,23
+378,USI,Data Scientist,74.5,22
+379,UST Global,Data Scientist,110,21
+380,Underwriters Laboratories,Data Scientist,120,126
+381,United BioSource,Sr Data Analyst,133,17
+382,Upstart,Data Scientist,99,8
+383,VANTA Partners,Data Scientist - Machine Learning,106,2
+384,VBeyond Corporation,Data Scientist,183,14
+385,Via Transportation,Data Scientist,105.5,8
+386,Visionary Integration Professionals,Data Scientist,136,24
+387,"Visionist, Inc.",Data Scientist,161,10
+388,WGSN,Data Scientist,114,22
+389,Werner Enterprises Inc,Data Scientist,106,64
+390,Western Digital,Data Engineer - Kafka,88.5,50
+391,XPO Logistics,Data Scientist,107,9
+392,XSELL Technologies,Data Scientist,126.5,6
+393,bioMérieux,Sr Data Scientist,99,57
+394,eBay,Data Scientist,120,25
+395,hc1,Data Engineer,115,9
+396,iRobot,Data Scientist,129.5,30
+397,iSeatz,E-Commerce Data Analyst,103,21
+398,webfx.com,Jr. Business Data Analyst (position added 6/12/2020),76,23
