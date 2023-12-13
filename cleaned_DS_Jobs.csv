@@ -1,0 +1,593 @@
+Company Name,python,excel,hadoop,spark,aws,tableau,job_simp,average_salary
+Healthfirst,0,0,0,0,1,0,data scientist,154.0
+ManTech,0,0,1,0,0,0,data scientist,154.0
+Analysis Group,1,1,0,0,1,0,data scientist,154.0
+INFICON,1,1,0,0,1,0,data scientist,154.0
+Affinity Solutions,1,1,0,0,0,0,data scientist,154.0
+HG Insights,1,1,1,1,0,0,data scientist,154.0
+Novartis,1,0,0,0,0,0,data scientist,154.0
+iRobot,1,0,0,0,0,0,data scientist,154.0
+Intuit - Data,0,0,0,0,0,0,data scientist,154.0
+XSELL Technologies,1,0,0,0,0,0,data scientist,154.0
+Novetta,1,1,0,0,1,0,data scientist,154.0
+1904labs,1,0,0,1,0,0,data scientist,154.0
+PNNL,0,1,0,0,0,0,data scientist,154.0
+Mathematica Policy Research,1,1,0,0,1,0,data scientist,154.0
+Guzman & Griffin Technologies (GGTI),1,1,1,1,0,1,data scientist,154.0
+Buckman,1,0,1,0,0,0,data scientist,154.0
+"Insight Enterprises, Inc.",0,1,0,0,0,0,analyst,154.0
+Triplebyte,0,0,0,0,0,0,data scientist,154.0
+PulsePoint,1,0,1,1,0,0,data scientist,154.0
+Guardian Life,0,0,0,0,0,0,analyst,154.0
+Spectrum Communications and Consulting,0,0,0,0,0,0,data scientist,154.0
+Oversight Systems,1,1,0,0,0,0,data scientist,154.0
+LSQ,1,1,1,1,1,1,data scientist,154.0
+MIT Lincoln Laboratory,1,0,1,1,0,0,data scientist,154.0
+Kingfisher Systems,1,0,0,0,0,1,data scientist,154.0
+Formation,0,1,0,1,0,0,data scientist,154.0
+Analysis Group,1,1,0,0,1,0,data scientist,103.0
+Novartis,1,0,0,0,0,0,data scientist,103.0
+Cohere Health,1,1,0,0,0,0,data scientist,103.0
+Acuity Insurance,0,0,0,0,0,0,data scientist,103.0
+Chef,0,1,0,0,1,0,data engineer,103.0
+Puget Sound Energy,0,1,1,1,0,0,data scientist,103.0
+Sandhills Global,1,1,0,0,0,1,analyst,103.0
+A Place for Mom,1,1,0,0,1,0,data scientist,103.0
+Great-Circle Technologies,1,1,1,1,1,0,data scientist,103.0
+Edmunds.com,1,1,0,0,1,1,data scientist,103.0
+"Cambridge Associates, LLC",1,1,0,0,0,0,analyst,103.0
+Liberty Mutual Insurance,1,1,0,1,1,0,mle,103.0
+Cenlar,0,0,0,0,0,0,analyst,103.0
+Eversight,1,0,0,0,0,0,data scientist,103.0
+Pfizer,1,1,0,0,1,0,mle,103.0
+Klaviyo,0,0,0,0,0,0,data scientist,103.0
+Intellectual Ventures,1,1,0,0,0,0,data scientist,103.0
+GovTech,1,1,0,0,0,1,data scientist,103.0
+Quick Base,1,1,0,0,0,1,data scientist,103.0
+Giving Assistant,1,1,0,0,0,1,analyst,103.0
+Takeda,1,0,0,1,0,0,data scientist,103.0
+Netskope,1,1,0,1,0,0,data scientist,103.0
+iSeatz,0,1,0,0,0,0,analyst,103.0
+Benson Hill,1,1,0,0,0,0,data scientist,103.0
+Twitter,1,0,0,0,0,0,data scientist,103.0
+Postmates - Corporate HQ,1,0,0,1,0,0,data scientist,103.0
+Envision LLC,1,1,0,0,0,0,data scientist,103.0
+Swiss Re,1,1,0,0,0,0,analyst,103.0
+Systems & Technology Research,1,1,0,0,0,0,mle,103.0
+iRobot,1,0,0,0,0,0,data scientist,105.0
+HG Insights,1,1,1,1,0,0,data scientist,105.0
+Dermalogica,0,1,0,0,0,1,analyst,105.0
+Bayview Asset Management,1,0,0,0,0,0,data engineer,105.0
+Via Transportation,1,0,0,0,0,1,data scientist,105.0
+Grid Dynamics,1,1,0,0,0,1,data scientist,105.0
+Tempus Labs,1,0,0,0,1,0,mle,105.0
+CareDx,1,1,0,1,0,0,data scientist,105.0
+IZEA,1,1,1,1,1,0,data engineer,105.0
+Tempus Labs,1,0,0,0,1,0,data scientist,105.0
+Autodesk,1,1,1,1,1,0,data scientist,105.0
+Caterpillar,0,1,0,0,0,1,analyst,105.0
+Allied Solutions,1,1,0,0,0,1,analyst,105.0
+Healthfirst,1,1,0,0,0,0,data engineer,105.0
+The Knot Worldwide,1,0,0,1,1,0,data scientist,105.0
+IFG Companies,1,0,0,0,0,0,data scientist,105.0
+Amyris,1,0,0,0,1,0,data scientist,105.0
+AstraZeneca,1,0,1,0,0,0,data scientist,105.0
+Powertek,0,0,0,0,0,0,data scientist,105.0
+Object Partners,0,0,1,1,1,0,data engineer,105.0
+The Mom Project,1,0,1,1,1,0,data scientist,105.0
+Lightspeed Systems,1,0,0,1,1,0,data scientist,105.0
+Stripe,1,0,0,0,0,0,manager,105.0
+Comprehensive Healthcare,0,0,0,0,0,0,analyst,105.0
+"Fullpower Technologies, Inc.",1,0,0,0,1,0,data scientist,105.0
+Klaviyo,1,0,0,0,0,0,mle,105.0
+Mars,1,0,0,1,1,0,data scientist,105.0
+AstraZeneca,1,1,0,0,0,0,data scientist,105.0
+NuWave Solutions,1,0,1,1,1,0,mle,105.0
+ManTech,1,0,1,1,0,1,data scientist,105.0
+Mathematica Policy Research,1,1,0,0,1,0,data scientist,115.5
+Intuit - Data,0,0,0,0,0,0,data scientist,115.5
+Mars,1,0,0,1,0,0,data scientist,115.5
+GutCheck,0,0,0,0,0,0,data scientist,115.5
+Inter-American Development Bank,0,1,0,0,0,1,data scientist,115.5
+Stratagem Group,1,1,1,1,1,0,mle,115.5
+Evidation,1,0,0,0,0,0,data scientist,115.5
+Autodesk,1,0,1,1,0,0,data scientist,115.5
+Intuit - Data,0,0,0,0,0,0,data scientist,115.5
+Tecolote Research,1,1,0,0,0,1,data scientist,115.5
+Tivity Health,0,0,1,0,0,0,data engineer,115.5
+hc1,1,0,0,0,1,0,data engineer,115.5
+HP Inc.,1,1,1,0,1,0,data scientist,115.5
+SAIC,1,0,0,0,0,0,data scientist,115.5
+AllianceBernstein,0,1,0,1,0,0,analyst,115.5
+Big Huge Games,0,1,0,0,0,1,analyst,115.5
+Maxar Technologies,1,0,0,0,0,0,data scientist,115.5
+Phantom AI,1,0,0,0,0,0,data engineer,115.5
+Noblis,1,0,1,1,1,1,data scientist,115.5
+Spring Health,1,1,0,0,0,0,data scientist,115.5
+AllianceBernstein,1,1,0,0,0,0,analyst,115.5
+GetWellNetwork,1,0,0,0,0,0,data engineer,115.5
+TACG Solutions,1,1,0,0,0,1,data scientist,115.5
+Scoop,1,0,0,1,0,0,data engineer,115.5
+Novetta,1,1,0,0,1,0,data scientist,115.5
+IZEA,1,1,1,1,1,0,data engineer,115.5
+Montway Inc,1,1,0,0,0,1,analyst,115.5
+Juniper Networks,1,1,0,1,1,0,data scientist,115.5
+1904labs,1,0,0,1,0,0,data scientist,99.5
+XSELL Technologies,1,0,0,0,0,0,data scientist,99.5
+IZEA,1,1,1,1,1,0,data engineer,99.5
+Juniper Networks,1,1,0,1,1,0,data scientist,99.5
+Notion Labs,0,0,0,0,0,0,data scientist,99.5
+Lendio,1,0,1,1,1,0,data engineer,99.5
+Direct Agents,1,1,0,0,0,0,data engineer,99.5
+NAVEX Global,1,0,0,1,0,1,data scientist,99.5
+Lendio,1,0,1,1,1,0,data engineer,99.5
+Upstart,1,0,0,0,0,0,data scientist,99.5
+Envision LLC,1,0,1,1,0,1,analyst,99.5
+AppLovin,0,1,1,1,0,0,data engineer,99.5
+Relativity,0,1,0,1,0,1,data engineer,99.5
+Tempo Automation,1,0,1,1,1,1,data scientist,99.5
+MITRE,1,0,0,0,0,0,data scientist,99.5
+"Expedition Technology, Inc.",1,1,0,0,0,0,mle,99.5
+Plymouth Rock Assurance,0,1,0,0,0,0,data scientist,99.5
+GNS Healthcare,0,0,0,0,1,0,data scientist,99.5
+OneMagnify,0,1,0,0,0,1,manager,99.5
+SPECTRUM,1,1,1,0,0,0,data scientist,99.5
+Procore Technologies,1,1,1,1,1,0,data engineer,99.5
+bioMérieux,1,1,0,0,0,0,data scientist,99.5
+Novetta,1,1,0,0,1,0,data scientist,133.0
+Guzman & Griffin Technologies (GGTI),1,1,1,1,0,1,data scientist,133.0
+Radical Convergence,1,0,0,0,0,0,mle,133.0
+Leidos,0,0,0,0,1,0,data scientist,133.0
+Demandbase,1,0,0,1,1,0,data scientist,133.0
+Shelter Insurance,1,1,0,0,1,1,analyst,133.0
+Maxar Technologies,0,0,0,0,0,0,data scientist,133.0
+USAC,1,1,0,0,0,0,analyst,133.0
+Offerpad,1,1,0,0,0,0,data scientist,133.0
+Autodesk,1,0,1,1,0,0,analyst,133.0
+Autodesk,1,0,1,1,0,1,analyst,133.0
+Magna International Inc.,1,0,1,1,1,0,data engineer,133.0
+United BioSource,0,1,0,0,0,1,analyst,133.0
+Kelly,0,1,0,0,0,0,data scientist,133.0
+Tempus Labs,1,0,0,0,1,0,mle,133.0
+C3.ai,1,1,0,0,0,0,data scientist,133.0
+Quartet Health,1,0,1,0,0,0,data scientist,133.0
+Midland Credit Management,1,1,0,0,0,0,analyst,133.0
+Tempus Labs,1,0,0,0,1,0,mle,133.0
+Resurgent Capital Services,1,1,0,0,1,0,data engineer,133.0
+PNNL,0,1,0,0,0,0,data scientist,76.5
+Buckman,1,0,1,0,0,0,data scientist,76.5
+Buckman,1,0,0,0,0,0,mle,76.5
+webfx.com,0,1,0,0,0,0,analyst,76.5
+Argo Group US,1,0,1,1,1,0,data scientist,76.5
+BWX Technologies,1,0,0,0,0,0,data scientist,76.5
+Life360,1,0,0,0,0,1,analyst,76.5
+MassMutual,1,0,1,1,1,0,data scientist,76.5
+Constant Contact,1,1,1,1,1,0,data scientist,76.5
+Sage Intacct,1,0,0,0,0,0,mle,76.5
+Shape Security,1,0,0,0,1,0,data engineer,76.5
+AstraZeneca,1,1,0,0,0,0,data scientist,76.5
+SkillSoniq,1,0,0,0,0,0,data scientist,76.5
+AstraZeneca,1,0,0,0,0,0,data scientist,76.5
+Joby Aviation,1,1,0,1,1,0,data scientist,76.5
+Cook Children's Health Care System,0,0,0,0,0,0,analyst,76.5
+Rubius Therapeutics,0,0,0,0,0,0,director,76.5
+GreatAmerica Financial Services,0,1,0,0,0,1,analyst,76.5
+Spectrum Communications and Consulting,0,0,0,0,0,0,data scientist,92.5
+Coverent,1,1,0,0,0,0,data scientist,92.5
+Mteq,1,0,0,0,0,0,mle,92.5
+Rocket Lawyer,1,1,1,0,0,0,data engineer,92.5
+Novartis,0,0,0,0,0,0,data scientist,92.5
+Alion Science & Technology,1,1,0,0,1,0,data engineer,92.5
+Protolabs,0,0,0,0,0,0,analyst,92.5
+Quest Integrity,0,1,0,0,0,0,analyst,92.5
+Phoenix Operations Group,1,0,0,1,0,0,data scientist,92.5
+Dice.com,1,1,0,0,1,0,data scientist,92.5
+Maxar Technologies,1,1,0,0,0,0,data scientist,92.5
+Phoenix Operations Group,1,0,0,1,0,0,data scientist,92.5
+AstraZeneca,1,0,1,1,1,0,data scientist,92.5
+The Buffalo Group,1,0,0,0,0,0,analyst,92.5
+Central California Alliance for Health,0,0,0,0,0,1,manager,92.5
+Tempus Labs,1,0,0,0,1,0,mle,92.5
+Security Finance Corporation of Spartanburg,0,0,0,0,0,0,analyst,92.5
+PulsePoint,1,0,1,1,0,0,data scientist,97.0
+LSQ,1,1,1,1,1,1,data scientist,97.0
+Resurgent Capital Services,1,1,0,0,1,0,data engineer,97.0
+Opendoor,1,0,0,0,1,0,data scientist,97.0
+Global Data Management Inc,1,0,0,0,0,0,data scientist,97.0
+Photon Infotech,1,1,1,1,0,0,data scientist,97.0
+REE,1,0,0,0,0,0,data scientist,97.0
+Riverside Research Institute,1,0,0,0,0,0,mle,97.0
+T. Rowe Price,1,1,0,0,0,1,analyst,97.0
+"Encode, Inc.",0,1,0,0,1,0,data scientist,97.0
+BWX Technologies,1,0,0,0,0,0,data scientist,97.0
+Brighthouse Financial,0,0,0,0,0,0,analyst,97.0
+Argo Group US,1,0,1,1,1,0,data scientist,97.0
+II-VI Incorporated,0,1,0,0,0,0,data scientist,97.0
+Surya Systems,1,0,1,0,0,1,data scientist,97.0
+Life360,1,0,0,0,0,1,analyst,97.0
+Predictive Research Inc,1,0,0,0,0,0,data scientist,97.0
+Oversight Systems,1,1,0,0,0,0,data scientist,107.0
+Acuity Insurance,0,0,0,0,0,0,data scientist,107.0
+1010data,1,1,0,0,1,0,data engineer,107.0
+Gigya,0,0,0,0,0,0,data scientist,107.0
+Sanofi,1,0,0,0,0,1,data scientist,107.0
+XPO Logistics,1,0,0,0,0,0,data scientist,107.0
+Trace Data,1,0,0,1,0,0,data scientist,107.0
+Descript,1,0,0,0,0,0,data scientist,107.0
+MassMutual,1,0,1,1,1,0,data scientist,107.0
+Better Hire,0,0,0,0,0,0,data scientist,107.0
+Parker Hannifin,1,1,0,0,0,0,data scientist,107.0
+Gallup,1,1,0,0,0,0,data scientist,107.0
+Insider Inc,1,1,0,0,0,0,data scientist,107.0
+Rapid Value Solutions,1,0,0,0,1,0,data scientist,107.0
+"The Drive Media, Inc.",1,1,0,0,0,0,data scientist,107.0
+Affinity Solutions,1,0,0,1,0,1,data engineer,107.0
+Sage Intacct,1,0,0,0,0,0,mle,107.0
+Constant Contact,1,1,1,1,1,0,data scientist,107.0
+MIT Lincoln Laboratory,1,0,1,1,0,0,data scientist,120.5
+Puget Sound Energy,0,1,1,1,0,0,data scientist,120.5
+Pacific Northwest National Laboratory,0,0,0,0,0,0,data scientist,120.5
+Analysis Group,1,1,0,0,1,0,director,120.5
+US Pharmacopeia,1,1,0,0,0,1,data scientist,120.5
+Itlize Global,1,0,1,1,0,0,data scientist,120.5
+eBay,1,0,1,0,0,1,data scientist,120.5
+Paige,1,1,0,0,1,0,data engineer,120.5
+Shape Security,1,0,0,0,1,0,data engineer,120.5
+ABIOMED,1,1,0,0,0,1,manager,120.5
+Comcast,1,0,0,0,1,1,data scientist,120.5
+"Metronome, LLC",1,0,0,1,0,0,data scientist,120.5
+SkillSoniq,1,0,0,0,0,0,data scientist,120.5
+Lawrence Livermore National Lab,1,1,0,0,0,0,data scientist,120.5
+FHLBank Pittsburgh,0,0,0,0,1,1,analyst,120.5
+Jacobs,1,0,1,1,1,1,data scientist,120.5
+Klaviyo,0,0,0,0,0,0,data scientist,120.5
+Underwriters Laboratories,0,0,0,1,0,0,data scientist,120.5
+Altus Group,1,1,0,0,1,1,data scientist,120.5
+Jobot,1,1,0,0,0,1,data scientist,120.5
+Trovetechs Inc,0,0,0,0,0,0,data scientist,120.5
+Edmunds.com,1,1,0,0,1,1,data scientist,183.0
+Cohere Health,1,1,0,0,0,0,data scientist,183.0
+Trovetechs Inc,0,0,0,0,0,0,data scientist,183.0
+AstraZeneca,1,0,0,0,0,0,data scientist,183.0
+Oshkosh Corporation,1,1,1,1,0,0,data scientist,183.0
+Joby Aviation,1,1,0,1,1,0,data scientist,183.0
+Mackin,1,0,0,0,0,0,data scientist,183.0
+PETADATA,1,1,0,0,0,1,data scientist,183.0
+VBeyond Corporation,1,0,0,0,0,0,data scientist,183.0
+Leidos,1,0,0,0,1,0,data scientist,183.0
+Take-Two,1,1,0,1,1,1,data scientist,183.0
+Colony Brands,1,0,0,0,0,0,data scientist,183.0
+Capio Group,1,0,0,0,0,0,data scientist,183.0
+SleePare,1,0,0,1,0,0,data scientist,183.0
+ShorePoint,0,1,0,0,0,1,analyst,183.0
+Dolphin,1,0,0,1,0,0,data scientist,183.0
+TE Connectivity,0,0,0,0,0,0,data scientist,183.0
+State of Virginia,1,0,1,0,0,0,data scientist,183.0
+TA Digital,1,0,0,0,1,0,data scientist,183.0
+Market America Inc,1,1,1,1,0,0,data scientist,183.0
+Triplebyte,0,0,0,0,0,0,data scientist,185.0
+Kingfisher Systems,1,0,0,0,0,1,data scientist,185.0
+ALTA IT Services,1,0,0,0,0,1,data scientist,185.0
+Kollasoft Inc.,1,1,0,0,0,0,data scientist,185.0
+Kollasoft Inc.,1,1,0,0,0,0,data scientist,185.0
+ASRC Federal Holding Company,0,1,0,0,0,0,data scientist,185.0
+Adwait Algorithm,1,0,1,1,0,0,data scientist,185.0
+Cook Children's Health Care System,0,0,0,0,0,0,analyst,185.0
+Rubius Therapeutics,0,0,0,0,0,0,director,185.0
+Cambridge FX,1,1,0,0,0,1,data scientist,185.0
+Metromile,1,0,0,1,1,0,data scientist,185.0
+Criteo,1,0,1,1,0,0,data scientist,185.0
+Advance Sourcing Concepts,1,0,0,0,1,0,data scientist,185.0
+Enterprise Solutions Inc,1,1,0,0,0,1,data scientist,185.0
+GreatAmerica Financial Services,0,1,0,0,0,1,analyst,185.0
+Microagility,0,1,0,0,0,0,data scientist,185.0
+"Conch Technologies, Inc",0,0,0,0,0,0,data scientist,185.0
+"Rainmaker Resources, LLC",0,1,0,0,0,0,data scientist,185.0
+GovTech,1,1,0,0,0,1,data scientist,113.0
+Intellectual Ventures,1,1,0,0,0,0,data scientist,113.0
+Rocket Lawyer,1,1,1,0,0,0,data engineer,113.0
+22nd Century Technologies,0,0,0,0,0,0,data scientist,113.0
+Huxley,1,0,0,0,0,0,data scientist,113.0
+FM Systems,1,1,0,1,1,0,data scientist,113.0
+B4Corp,1,1,0,0,0,0,data scientist,113.0
+Mteq,1,0,0,0,0,0,mle,113.0
+Jane Street,0,0,0,0,0,0,mle,113.0
+SSATI,1,1,0,0,0,0,data scientist,113.0
+Novartis,0,0,0,0,0,0,data scientist,113.0
+Solving IT International Inc,0,1,0,0,0,0,data scientist,113.0
+The Davey Tree Expert Company,1,1,0,0,0,0,data scientist,113.0
+Centauri,0,0,0,0,0,0,data scientist,113.0
+Stride Search,1,0,0,0,0,0,data scientist,113.0
+Software Engineering Institute,1,0,0,0,0,0,mle,113.0
+Dermalogica,1,0,0,0,0,1,analyst,113.0
+TechProjects,1,1,0,0,0,1,data scientist,113.0
+Netskope,1,1,0,1,0,0,data scientist,134.0
+Eversight,1,0,0,0,0,0,data scientist,134.0
+Protolabs,0,0,0,0,0,0,analyst,134.0
+Ameritas Life Insurance Corp,0,0,0,0,0,0,data scientist,134.0
+Western Digital,1,0,1,1,1,0,data engineer,134.0
+"Shimento, Inc.",1,0,1,1,0,0,data scientist,134.0
+Averity,0,0,0,0,0,0,data scientist,134.0
+Praxis Engineering,0,0,0,0,1,0,data scientist,134.0
+Point72 Ventures,0,0,0,0,0,0,data scientist,134.0
+Cambridge Mobile Telematics,1,0,0,1,1,0,data scientist,134.0
+Blend360,1,0,1,1,1,0,data engineer,134.0
+Phoenix Operations Group,1,0,0,1,0,0,data scientist,134.0
+Nolij Consulting,1,1,0,0,0,1,analyst,134.0
+Hatch Data Inc,1,0,0,1,1,0,data scientist,134.0
+Hatch Data Inc,1,0,0,1,1,0,data scientist,134.0
+Hatch Data Inc,1,0,0,1,1,0,data scientist,134.0
+Hatch Data Inc,1,0,0,1,1,0,data scientist,134.0
+Hatch Data Inc,1,0,0,1,1,0,data scientist,134.0
+Hatch Data Inc,1,0,0,1,1,0,data scientist,134.0
+Maxar Technologies,1,1,0,0,0,0,data scientist,134.0
+Quick Base,1,1,0,0,0,1,data scientist,114.0
+Takeda,1,0,0,1,0,0,data scientist,114.0
+Maxar Technologies,1,0,1,1,0,1,data scientist,114.0
+Compass Consulting Group,1,0,0,0,0,0,data scientist,114.0
+AstraZeneca,1,0,1,1,1,0,data scientist,114.0
+"SolutionIT, Inc.",0,0,0,0,0,0,data scientist,114.0
+Perspecta,1,0,1,0,0,0,data scientist,114.0
+Smith Hanley Associates,1,0,0,0,0,0,data scientist,114.0
+Allen Institute,0,0,0,0,0,0,mle,114.0
+Eliassen Group,1,0,0,0,0,0,data scientist,114.0
+Bayside Solutions,1,1,0,0,0,1,data scientist,114.0
+Evolve Vacation Rental,1,0,0,0,0,0,data scientist,114.0
+AgreeYa Solutions,1,1,0,0,0,0,data scientist,114.0
+Carolina Power & Light Co,1,1,0,0,0,0,data scientist,114.0
+Central California Alliance for Health,0,0,0,0,0,1,manager,114.0
+Travelers,1,0,0,1,1,0,data engineer,114.0
+Twitch,1,0,0,0,0,1,analyst,114.0
+Klaviyo,0,0,0,0,0,0,data scientist,136.5
+GutCheck,0,1,0,0,0,0,data scientist,136.5
+HireAi,1,1,0,1,0,1,data scientist,136.5
+HireAi,1,1,0,1,0,1,data scientist,136.5
+Tempus Labs,1,0,0,0,1,0,mle,136.5
+Mentor Graphics,1,1,0,0,0,0,data scientist,136.5
+WCG (WIRB-Copernicus Group),0,1,0,0,0,0,data scientist,136.5
+Kingfisher Systems,1,0,0,0,0,0,data engineer,136.5
+Visionary Integration Professionals,0,1,0,0,0,0,data scientist,136.5
+Maxar Technologies,1,0,0,0,0,0,data scientist,136.5
+Novetta,1,1,0,0,0,0,analyst,136.5
+Navy Federal Credit Union,0,0,0,0,0,1,data engineer,136.5
+Community Behavioral Health,0,1,0,0,0,1,analyst,136.5
+LifeOmic,0,0,0,1,1,0,mle,136.5
+Twitter,1,0,0,0,0,0,data scientist,161.0
+Postmates - Corporate HQ,1,0,0,1,0,0,data scientist,161.0
+"Visionist, Inc.",1,0,1,1,0,1,data scientist,161.0
+Navio,0,0,0,0,1,0,data scientist,161.0
+Concerto HealthAI,1,0,0,0,0,0,data scientist,161.0
+Evolvinc,1,1,1,1,1,0,data scientist,161.0
+PROPRIUS,1,0,1,1,0,1,data scientist,161.0
+TECHNOCRAFT Solutions,1,0,0,0,0,0,data scientist,161.0
+"Latitude, Inc.",1,0,0,0,0,1,data scientist,161.0
+Royce Geospatial,1,0,0,0,0,0,data scientist,161.0
+CyberCoders,1,0,0,0,0,0,data scientist,161.0
+Booz Allen Hamilton Inc.,1,0,1,0,0,1,data scientist,161.0
+Burns & McDonnell,1,1,0,0,0,0,data scientist,161.0
+InvenTech Info,1,0,0,0,0,0,data scientist,161.0
+Robert Half,1,0,1,1,0,0,data scientist,161.0
+GreatAmerica Financial Services,0,1,0,0,0,1,analyst,161.0
+Conflux Systems Inc.,1,1,1,1,1,0,data scientist,161.0
+Criteo,1,0,1,1,0,0,data scientist,161.0
+Voice,1,0,0,0,0,0,data scientist,161.0
+Microagility,0,1,0,0,0,0,data scientist,161.0
+Coverent,1,1,0,0,0,0,data scientist,161.0
+Via Transportation,1,0,0,0,0,1,data scientist,106.0
+Benson Hill,1,1,0,0,0,0,data scientist,106.0
+"Conch Technologies, Inc",0,0,0,0,0,0,data scientist,106.0
+Falcon IT & Staffing Solutions,1,1,0,0,0,0,data scientist,106.0
+"Rainmaker Resources, LLC",0,1,0,0,0,0,data scientist,106.0
+Rocket Lawyer,1,1,1,0,0,0,data engineer,106.0
+DataLab USA,1,1,0,0,0,1,data scientist,106.0
+Werner Enterprises Inc,0,0,0,0,0,0,data scientist,106.0
+PeopleCom,1,0,0,0,0,0,data scientist,106.0
+VANTA Partners,1,0,0,1,0,0,data scientist,106.0
+B4Corp,1,1,0,0,0,0,data scientist,106.0
+"Blue Icy Water, LLC",0,1,0,0,0,0,data scientist,106.0
+"Farmer's Business Network, Inc.",1,1,0,0,0,0,data scientist,106.0
+Sonde Health,1,0,0,0,1,0,data scientist,106.0
+Maxiom,1,1,1,0,0,1,data scientist,106.0
+Change Healthcare,0,1,0,0,1,0,data scientist,106.0
+DCS Corp,1,1,0,0,0,0,data scientist,106.0
+Hive (CA),1,0,1,1,0,0,data scientist,106.0
+Jane Street,0,0,0,0,0,0,mle,106.0
+Envision LLC,1,1,0,0,0,0,data scientist,92.5
+Autodesk,1,1,1,1,1,0,data scientist,92.5
+Hackensack Meridian Health,1,0,0,0,0,1,data scientist,92.5
+Novartis,0,0,0,0,0,0,data scientist,92.5
+Net2Source Inc.,1,1,1,1,0,0,data scientist,92.5
+The Trade Desk,1,0,0,1,1,0,data scientist,92.5
+IBM,1,1,0,0,1,0,data scientist,92.5
+Knowesis Inc.,1,0,1,0,1,1,data scientist,92.5
+MoTek Technologies,1,1,0,0,0,0,data scientist,92.5
+The Davey Tree Expert Company,1,1,0,0,0,0,data scientist,92.5
+HPOne,1,1,0,0,0,1,data scientist,92.5
+Stride Search,1,0,0,0,0,0,data scientist,92.5
+Software Engineering Institute,1,0,0,0,0,0,mle,92.5
+Blue Cloak LLC,1,0,1,1,1,1,data scientist,92.5
+TBWA\Chiat\Day,1,1,0,0,0,1,data scientist,92.5
+ThreeBridge Solutions,1,0,0,0,0,0,data scientist,92.5
+"Numeric, LLC",1,0,1,1,1,0,data scientist,92.5
+Dermalogica,1,0,0,0,0,1,analyst,92.5
+Centraprise,1,0,0,0,0,0,data scientist,92.5
+TechProjects,1,1,0,0,0,1,data scientist,92.5
+DW Simpson,1,1,0,0,0,1,data scientist,92.5
+Tempus Labs,1,0,0,0,1,0,mle,43.5
+Grid Dynamics,1,1,0,0,0,1,data scientist,43.5
+Protolabs,0,0,0,0,0,0,analyst,43.5
+LinQuest,1,1,0,0,0,1,data scientist,43.5
+Western Digital,1,0,1,1,1,0,data engineer,43.5
+Trexquant Investment,1,0,0,0,0,0,data scientist,43.5
+Ameritas Life Insurance Corp,0,0,0,0,0,0,data scientist,43.5
+Fleetcor,1,1,0,0,0,1,data scientist,43.5
+Radiant Digital,1,1,1,1,0,0,data scientist,43.5
+Child Care Aware of America,1,1,0,0,1,0,data scientist,43.5
+IntelliPro Group Inc.,1,1,1,0,0,0,data scientist,43.5
+Quest Integrity,0,1,0,0,0,0,analyst,43.5
+Praxis Engineering,0,0,0,0,1,0,data scientist,43.5
+USI,1,1,0,0,0,0,data scientist,43.5
+Apex Systems,0,0,0,0,0,0,data scientist,43.5
+"Pragmatics, Inc.",1,0,1,0,1,0,data scientist,43.5
+Cambridge Mobile Telematics,1,0,0,1,1,0,data scientist,43.5
+Phoenix Operations Group,1,0,0,1,0,0,data scientist,43.5
+Tempus Labs,1,0,0,0,1,0,data scientist,107.0
+The Knot Worldwide,1,0,0,1,1,0,data scientist,107.0
+Crossover Health,1,1,0,0,0,1,data scientist,107.0
+Lorven Technologies Inc,1,0,0,0,0,0,data scientist,107.0
+Nolij Consulting,1,1,0,0,0,1,analyst,107.0
+Dice.com,1,1,0,0,1,0,data scientist,107.0
+Gap Inc.,1,0,0,1,0,0,data scientist,107.0
+"Tygart Technology, Inc",1,1,1,0,0,0,data scientist,107.0
+Hatch Data Inc,1,0,0,1,1,0,data scientist,107.0
+Hatch Data Inc,1,0,0,1,1,0,data scientist,107.0
+Hatch Data Inc,1,0,0,1,1,0,data scientist,107.0
+Hatch Data Inc,1,0,0,1,1,0,data scientist,107.0
+Hatch Data Inc,1,0,0,1,1,0,data scientist,107.0
+Hatch Data Inc,1,0,0,1,1,0,data scientist,107.0
+Murray Resources,1,1,1,0,0,1,data scientist,107.0
+New York Technology Partners,1,1,1,1,1,0,data scientist,107.0
+Two95 International Inc.,1,0,0,0,0,0,data scientist,107.0
+Sophinea,0,0,0,0,0,0,data scientist,107.0
+CRS Group,0,0,0,0,0,0,data scientist,107.0
+Blackstone Talent Group,1,0,0,0,1,0,data scientist,107.0
+Phoenix Operations Group,1,0,0,1,0,0,data scientist,107.0
+Roche,1,1,1,1,0,0,data scientist,271.5
+AstraZeneca,1,0,1,0,0,0,data scientist,271.5
+Creative Circle,1,0,0,0,0,0,data scientist,271.5
+Blue Horizon Tek Solutions,1,1,0,0,0,0,data scientist,271.5
+Maxar Technologies,1,1,0,0,0,0,data scientist,271.5
+Sharpedge Solutions Inc,1,1,1,1,1,0,data scientist,271.5
+Maxar Technologies,1,0,1,1,0,1,data scientist,271.5
+Alaka`ina Foundation Family of Companies,1,0,0,0,0,0,data scientist,271.5
+Hexagon US Federal,0,1,0,0,1,0,data scientist,271.5
+Comtech Global Inc,1,0,1,1,1,1,data scientist,271.5
+"Aveshka, Inc.",1,1,0,1,0,0,data scientist,271.5
+10x Genomics,0,1,0,0,0,0,manager,271.5
+CompuForce,0,1,1,1,1,0,data scientist,271.5
+Smith Hanley Associates,1,0,0,0,0,0,data scientist,271.5
+Allen Institute,0,0,0,0,0,0,mle,271.5
+1-800-Flowers,1,1,0,0,0,1,data scientist,271.5
+Aptive,1,1,0,0,0,1,data scientist,271.5
+The Mom Project,1,0,1,1,1,0,data scientist,89.0
+Powertek,0,0,0,0,0,0,data scientist,89.0
+JCD Staffing,1,1,0,0,0,1,data scientist,89.0
+Bayside Solutions,1,1,0,0,0,1,data scientist,89.0
+Thumbtack,1,1,0,0,1,0,data engineer,89.0
+"MILVETS Systems Technology, Inc.",0,1,0,0,0,0,data scientist,89.0
+Apple,0,0,0,0,0,0,mle,89.0
+Kforce,0,0,0,0,0,0,data scientist,89.0
+Evolve Vacation Rental,1,0,0,0,0,0,data scientist,89.0
+The Buffalo Group,1,0,0,0,0,0,analyst,89.0
+OppLoans,1,0,0,0,0,0,analyst,89.0
+AgreeYa Solutions,1,1,0,0,0,0,data scientist,89.0
+Carolina Power & Light Co,1,1,0,0,0,0,data scientist,89.0
+Brillient,1,1,0,0,0,0,data scientist,89.0
+Xator Corporation,0,0,0,0,0,0,data scientist,89.0
+HAN IT Staffing Inc.,1,1,0,0,0,0,data scientist,89.0
+Infinitive Inc,1,1,1,1,1,0,data scientist,89.0
+Travelers,1,0,0,1,1,0,data engineer,89.0
+Amyris,1,0,0,0,1,0,data scientist,164.5
+Lightspeed Systems,1,0,0,1,1,0,data scientist,164.5
+Thumbtack,1,1,1,1,0,0,data scientist,164.5
+Twitch,1,0,0,0,0,1,analyst,164.5
+New Relic,1,0,0,0,0,0,mle,164.5
+HireAi,1,1,0,1,0,1,data scientist,164.5
+Tempus Labs,1,0,0,0,1,0,mle,164.5
+ICW Group,1,0,0,0,0,0,data scientist,164.5
+NYSTEC,1,0,0,0,0,0,analyst,164.5
+E3 Federal Solutions,0,0,1,0,0,0,data scientist,164.5
+Kingfisher Systems,1,0,0,0,0,0,data engineer,164.5
+Peraton,1,0,1,1,0,0,data scientist,164.5
+Group O,1,0,1,0,0,0,data scientist,164.5
+Autodesk,1,1,1,1,0,0,manager,164.5
+CaptiveAire,1,0,0,1,0,0,data engineer,164.5
+Temboo,0,0,1,0,0,0,mle,164.5
+Kibo,1,0,0,0,0,0,data scientist,164.5
+MITRE,1,1,1,1,0,1,data scientist,164.5
+Mars,1,0,0,1,1,0,data scientist,148.0
+"Fullpower Technologies, Inc.",1,0,0,0,1,0,data scientist,148.0
+AeroVironment,1,1,0,0,1,0,mle,148.0
+Maxar Technologies,1,0,0,0,0,0,data scientist,148.0
+Novetta,1,1,0,0,0,0,analyst,148.0
+Navy Federal Credit Union,0,0,0,0,0,1,data engineer,148.0
+Navy Federal Credit Union,0,0,0,1,0,1,analyst,148.0
+MITRE,1,1,1,1,1,0,data scientist,148.0
+LifeOmic,0,0,0,1,1,0,mle,148.0
+Spectrum Communications and Consulting,1,0,0,0,0,0,data engineer,148.0
+Affinity Solutions,1,0,1,1,0,1,data engineer,148.0
+Maxar Technologies,1,0,0,0,1,0,data engineer,148.0
+AstraZeneca,1,1,0,0,0,0,data scientist,106.0
+Autodesk,1,0,1,1,0,0,data scientist,106.0
+USI,1,1,0,0,0,0,data scientist,106.0
+GSK,1,0,1,0,1,1,data scientist,106.0
+CIA,0,0,0,0,0,0,data scientist,106.0
+Maven Wave Partners,1,1,1,0,1,1,data scientist,106.0
+Ovative Group,1,0,0,0,0,0,data scientist,106.0
+Kognetics,1,1,0,0,0,0,data scientist,106.0
+Envision Healthcare,1,1,1,1,1,1,data scientist,106.0
+"Pragmatics, Inc.",1,0,1,0,1,0,data scientist,106.0
+Phoenix Operations Group,1,0,0,1,0,0,data scientist,106.0
+Crossover Health,1,1,0,0,0,1,data scientist,106.0
+Lorven Technologies Inc,1,0,0,0,0,0,data scientist,106.0
+Meridian Knowledge Solutions,0,1,0,0,0,0,data scientist,106.0
+UST Global,1,1,1,1,1,0,data scientist,106.0
+IMG Systems,1,0,0,0,0,0,data scientist,106.0
+Trident Systems Inc,0,0,0,0,0,0,data scientist,106.0
+"Tygart Technology, Inc",1,1,1,0,0,0,data scientist,106.0
+ManTech,1,0,1,1,0,1,data scientist,114.0
+"GrainBridge, LLC",1,1,0,0,1,0,data scientist,114.0
+First Health Group,0,0,0,0,0,0,data scientist,114.0
+Sprezzatura Management Consulting,0,1,0,0,0,0,data scientist,114.0
+"Progress Rail, A Caterpillar Company",1,1,0,0,1,0,data scientist,114.0
+UST Global,1,1,1,1,1,0,data scientist,114.0
+Axiologic Solutions,0,0,0,0,1,0,data scientist,114.0
+Indigo Slate,1,0,0,1,0,0,data scientist,114.0
+Cubic,1,1,1,0,0,0,data scientist,114.0
+Advanced Bio-Logic Solutions Corp,1,0,0,0,0,0,data scientist,114.0
+Alignment Healthcare,0,1,1,1,1,1,data engineer,114.0
+WGSN,1,1,1,1,0,1,data scientist,114.0
+"ISYS Technologies, Inc.",1,0,1,1,0,1,data scientist,114.0
+TransVoyant,0,0,1,1,0,0,data scientist,114.0
+Noblis,1,0,0,0,0,0,data scientist,114.0
+Murray Resources,1,1,1,0,0,1,data scientist,114.0
+Geotab,1,1,0,1,0,0,data scientist,114.0
+CRS Group,0,0,0,0,0,0,data scientist,114.0
+EGlobalTech,1,1,0,0,1,0,data scientist,114.0
+Mars,1,0,0,1,0,0,data scientist,123.5
+"Central Business Solutions, Inc",1,1,1,1,1,0,data scientist,123.5
+KeHE Distributors,1,1,1,1,1,1,data scientist,123.5
+Blackstone Talent Group,1,0,0,0,1,0,data scientist,123.5
+Phoenix Operations Group,1,0,0,1,0,0,data scientist,123.5
+Sophinea,0,0,0,0,0,0,data scientist,123.5
+Maxar Technologies,1,1,0,0,0,0,data scientist,123.5
+Moxie Software,1,0,1,1,0,0,data scientist,123.5
+Blue Horizon Tek Solutions,1,1,0,0,0,0,data scientist,123.5
+Unicom Technologies INC,1,1,1,1,1,0,data scientist,123.5
+Americo Life,1,1,1,1,1,0,data engineer,123.5
+Tokio Marine HCC,1,0,0,0,0,0,data scientist,123.5
+CACI International,0,1,0,0,0,0,data scientist,123.5
+Apple,1,0,0,0,0,0,mle,123.5
+Maxar Technologies,1,0,1,1,0,1,data scientist,123.5
+Compass Consulting Group,1,0,0,0,0,0,data scientist,123.5
+AstraZeneca,1,0,1,1,1,0,data scientist,123.5
+GutCheck,0,0,0,0,0,0,data scientist,136.0
+Juniper Networks,1,1,0,1,1,0,data scientist,136.0
+Hexagon US Federal,0,1,0,0,1,0,data scientist,136.0
+Comtech Global Inc,1,0,1,1,1,1,data scientist,136.0
+Berico Technologies,0,1,0,0,1,0,data scientist,136.0
+Kehe Food Distributors,1,1,1,1,1,1,data scientist,136.0
+"Aveshka, Inc.",1,1,0,1,0,0,data scientist,136.0
+Perspecta,1,0,1,0,0,0,data scientist,136.0
+Pactera Edge,1,0,0,0,0,0,data scientist,136.0
+Qurate Retail Group,1,1,0,0,0,1,data scientist,136.0
+"SolutionIT, Inc.",0,0,0,0,0,0,data scientist,136.0
+A-Line Staffing Solutions,1,0,1,1,0,0,data scientist,136.0
+Clear Ridge Defense,1,0,1,0,0,0,data scientist,136.0
+"Criterion Systems, Inc.",1,1,0,0,0,0,data scientist,136.0
+Foundation Medicine,1,0,0,0,0,0,data scientist,136.0
+TRANZACT,1,1,1,0,0,1,data scientist,136.0
+JKGT,0,0,0,0,0,0,data scientist,136.0
+AccessHope,1,1,1,0,0,1,data scientist,136.0
+ChaTeck Incorporated,1,0,1,1,0,0,data scientist,136.0
+1-800-Flowers,1,1,0,0,0,1,data scientist,136.0
